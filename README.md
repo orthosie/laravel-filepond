@@ -5,6 +5,7 @@
 
 <p align="center">
   <strong>An all in one Laravel backend for <a href="https://pqina.nl/filepond/" target="_blank">FilePond</a></strong><br>
+  Forked from Sopamo/laravel-filepond to update I6 compatibility and to allow multiple file uploads.
 </p>
 <p>
     We currently support the `process` and `revert` methods and are securing those via the Laravel encryption/decryption methods.
@@ -17,7 +18,7 @@
 Require this package in the `composer.json` of your Laravel project.
 
 ```php
-composer require sopamo/laravel-filepond
+composer require orthosie/laravel-filepond
 ```
 
 If you need to edit the configuration, you can publish it with:
