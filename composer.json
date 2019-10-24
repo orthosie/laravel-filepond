@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sopamo\\LaravelFilepond\\": "src/"
+      "orthosie\\LaravelFilepond\\": "src/"
     }
   },
   "extra": {
